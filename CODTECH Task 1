@@ -1,0 +1,13 @@
+**COMPANY**:CODTECH IT SOLUTIONS
+
+**NAME**:Ayushka Manish Nalawade
+
+**INTERN ID**:CT08KKN
+
+**DOMAIN**:PYTHON PROGRAMMING
+
+**BATCH DURATION**:January 20th, 2025 to February 20th, 2025
+
+**MENTOR NAME**: NEELA SANTOSH
+
+**DESCRIPTION**: At first we have been asked to fetch data(any), so using python we will be fentching data to get service available on the internet.as an term is used that is public API ,according to internet that means , Its an tool that allows anyone to request information, such as weather details for a city, by following specific rules.for collecting particular type of data we will have to contact API at first , that is request API for the information regarding weather in particular region(city/country/ state ). in very simple words we have to write python code to ask a weather service for information about the weather in your city.after typing the code we will get output as city name , temperature , description etc.
